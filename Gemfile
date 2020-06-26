@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'simple_form', '~> 4.1'
 
-gem 'bootstrap-sass', '~> 3.3.4.1'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'devise', '~> 4.7', '>= 4.7.1'
 
